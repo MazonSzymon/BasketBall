@@ -1,0 +1,2 @@
+# BasketBall
+This Dataset Includes:  Seasons 1999-2020 49 Leagues, ~11K players details &amp; stats per Season Player Details: Birth Date, Height, Weight, Nationality, High School Stats per Season: Scoring Stats, Free Throws, Rebounds, Blocks, Assists, Minutes, Games etc. What's inside is more than just rows and columns. Make it easy for others to get started by describing how you acquired the data and what time period it represents, too.
